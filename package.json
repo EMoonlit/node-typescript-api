@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/EMoonlit/node-typescript-api#readme",
   "devDependencies": {
+    "@types/module-alias": "^2.0.1",
     "@types/node": "^16.11.7"
   },
   "dependencies": {
