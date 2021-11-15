@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/EMoonlit/node-typescript-api/issues"
   },
-  "homepage": "https://github.com/EMoonlit/node-typescript-api#readme"
+  "homepage": "https://github.com/EMoonlit/node-typescript-api#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
 }
