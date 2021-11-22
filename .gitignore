@@ -56,3 +56,6 @@ typings/
 
 # typescript compiled code
 dist/
+
+# vscide
+.vscode
